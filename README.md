@@ -47,7 +47,7 @@ Results for VGG-like architecture on CIFAR-10 dataset. Here speed-up is reported
 
 # Citation
 
-If you found this code useful please cite our paper
+If you found this code useful please cite our paper 
 
 ```
 @incollection{NIPS2017_7254,
