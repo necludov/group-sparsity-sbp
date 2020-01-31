@@ -1,7 +1,12 @@
 <h1>Structured Bayesian Pruning <br/> via Log-Normal Multiplicative Noise </h1>
 
-This repo contains the code for our NIPS17 paper, [Structured Bayesian Pruning via Log-Normal Multiplicative Noise](https://arxiv.org/pdf/1705.07283.pdf) ([poster](https://bayesgroup.github.io/pdf/sbp-poster.pdf), [spotlight video](https://youtu.be/3zEYjw-cB4Y)). In the paper, we propose a new Bayesian model that takes into account the computational structure of neural networks and provides structured sparsity, e.g. removes neurons and/or convolutional
+This repo contains the code for our NIPS17 paper, [Structured Bayesian Pruning via Log-Normal Multiplicative Noise](https://arxiv.org/pdf/1705.07283.pdf) ([poster](https://bayesgroup.github.io/pdf/sbp-poster.pdf). In the paper, we propose a new Bayesian model that takes into account the computational structure of neural networks and provides structured sparsity, e.g. removes neurons and/or convolutional
 channels in CNNs. To do this we inject noise to the neurons outputs while keeping the weights unregularized. 
+
+
+## Spotlight video
+
+[![](http://i3.ytimg.com/vi/3zEYjw-cB4Y/maxresdefault.jpg)](https://youtu.be/3zEYjw-cB4Y)
 
 # Launch experiments
 
