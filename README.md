@@ -42,7 +42,7 @@ Results for LeNet architectures on MNIST
 Results for VGG-like architecture on CIFAR-10 dataset. Here speed-up is reported for CPU. More detailed results are provided in the paper.
 
 <p align="center">
-<img height="318" src="http://ars-ashuha.ru/projects/sbp_neurips17/vgg-compression.png"/>
+<img height="318" src="http://senya-ashuha.gitgub.io/projects/sbp_neurips17/vgg-compression.png"/>
 </p>
 
 # Citation
