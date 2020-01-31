@@ -42,7 +42,7 @@ Results for LeNet architectures on MNIST
 Results for VGG-like architecture on CIFAR-10 dataset. Here speed-up is reported for CPU. More detailed results are provided in the paper.
 
 <p align="center">
-<img height="318" src="http://ars-ashuha.ru/images/vgg.png"/>
+<img height="318" src="http://ars-ashuha.ru/projects/sbp_neurips17/vgg-compression.png"/>
 </p>
 
 # Citation
@@ -50,7 +50,8 @@ Results for VGG-like architecture on CIFAR-10 dataset. Here speed-up is reported
 If you found this code useful please cite our paper 
 
 ```
-@incollection{NIPS2017_7254,
+@incollection{
+  neklyudov2018structured,
   title = {Structured Bayesian Pruning via Log-Normal Multiplicative Noise},
   author = {Neklyudov, Kirill and Molchanov, Dmitry and Ashukha, Arsenii and Vetrov, Dmitry P},
   booktitle = {Advances in Neural Information Processing Systems 30},
